@@ -1,4 +1,5 @@
 # This piece of code is borrowed from: https://github.com/pytorch/examples/tree/master/imagenet
+# very useful script to download a bunch of google pictures: https://www.quora.com/How-can-I-download-all-images-from-Google-image-search-engine-at-once
 
 import argparse
 import os
